@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2A9D-681F
+
+ Directory of C:\rag_git_folder
+
+06/22/2022  11:03 AM    <DIR>          .
+06/22/2022  11:03 AM    <DIR>          ..
+06/22/2022  11:03 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,420,593,152 bytes free
